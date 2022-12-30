@@ -85,3 +85,11 @@ Selected Awards & Honors
 </li>
 
 </ul>
+
+
+#### Others
+
+- Huawei Scholarship (2021 & 2022).
+- "Xu-Xin" International Exchange Scholarship}, Nanjing University (2020).
+- Outstanding Graduates Awards, Southeast University (2018).
+- Southeast University President's Scholarship, Southeast University (2017).
