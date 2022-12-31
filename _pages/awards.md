@@ -22,7 +22,7 @@ Selected Awards & Honors
 
 <li>
 
-`<b>`Meritorious Winner. `</b>`  In Mathematical Contest In Modeling (MCM) 2017.
+<b>Meritorious Winner. </b>  In Mathematical Contest In Modeling (MCM) 2017.
 
 </li>
 
@@ -42,7 +42,7 @@ Selected Awards & Honors
 
 <li>
 
-`<b>`Silver Award. `</b>`   In the 7th China College Students' "Internet+" Innovation and Entrepreneurship Competition.
+<b>Silver Award. </b>   In the 7th China College Students' "Internet+" Innovation and Entrepreneurship Competition.
 
 </li>
 
@@ -56,13 +56,13 @@ Selected Awards & Honors
 
 <li>
 
-`<b>`First Prize. `</b>` In the 2rd Cloud Computing Application Innovation Competition for Universities.
+<b>First Prize. </b> In the 2rd Cloud Computing Application Innovation Competition for Universities.
 
 </li>
 
 <li>
 
-`<b>`Third Place. `</b>` In Microsoft Imagine Cup 2017.
+<b>Third Place. </b> In Microsoft Imagine Cup 2017.
 
 </li>
 
@@ -76,7 +76,7 @@ Selected Awards & Honors
 
 <li>
 
-`<b>`First Prize. `</b>` In the 2rd Cloud Computing Application Innovation Competition for Universities.
+<b>First Prize. </b> In the 2rd Cloud Computing Application Innovation Competition for Universities.
 
 </li>
 
