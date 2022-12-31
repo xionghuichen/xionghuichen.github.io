@@ -7,10 +7,7 @@ permalink: /awards/
 
 nav: true
 ---
-
-
 Selected Awards & Honors
-
 
 <h4>International</h4>
 
@@ -22,7 +19,7 @@ Selected Awards & Honors
 
 <li>
 
-<b>Meritorious Winner. </b>  In Mathematical Contest In Modeling (MCM) 2017.
+`<b>`Meritorious Winner. `</b>`  In Mathematical Contest In Modeling (MCM) 2017.
 
 </li>
 
@@ -42,7 +39,7 @@ Selected Awards & Honors
 
 <li>
 
-<b>Silver Award. </b>   In the 7th China College Students' "Internet+" Innovation and Entrepreneurship Competition.
+`<b>`Silver Award. `</b>`   In the 7th China College Students' "Internet+" Innovation and Entrepreneurship Competition.
 
 </li>
 
@@ -56,13 +53,13 @@ Selected Awards & Honors
 
 <li>
 
-<b>First Prize. </b> In the 2rd Cloud Computing Application Innovation Competition for Universities.
+`<b>`First Prize. `</b>` In the 2rd Cloud Computing Application Innovation Competition for Universities.
 
 </li>
 
 <li>
 
-<b>Third Place. </b> In Microsoft Imagine Cup 2017.
+`<b>`Third Place. `</b>` In Microsoft Imagine Cup 2017.
 
 </li>
 
@@ -76,7 +73,7 @@ Selected Awards & Honors
 
 <li>
 
-<b>First Prize. </b> In the 2rd Cloud Computing Application Innovation Competition for Universities.
+`<b>`First Prize. `</b>` In the 2rd Cloud Computing Application Innovation Competition for Universities.
 
 </li>
 
@@ -85,11 +82,10 @@ Selected Awards & Honors
 </li>
 
 </ul>
-
 
 #### Others
 
 - Huawei Scholarship (2021 & 2022).
-- "Xu-Xin" International Exchange Scholarship}, Nanjing University (2020).
+- "Xu-Xin" International Exchange Scholarship, Nanjing University (2020).
 - Outstanding Graduates Awards, Southeast University (2018).
 - Southeast University President's Scholarship, Southeast University (2017).
