@@ -14,7 +14,7 @@ nav: true
     </div>
 </div>
 
-- Github repo: [RLAssistant](https://github/polixir/RLAssistant). [![RLAssistant repo](https://img.shields.io/github/stars/xionghuichen/RLAssistant?style=social)](https://github/xionghuichen/RLAssistant)
+- Github repo: [RLAssistant](https://github.com/polixir/RLAssistant). [![RLAssistant repo](https://img.shields.io/github/stars/xionghuichen/RLAssistant?style=social)](https://github/xionghuichen/RLAssistant)
 - Read more: [Zhihu](https://zhuanlan.zhihu.com/p/481889712).
 
 #### Resource Collection Website for Offline RL
@@ -26,7 +26,5 @@ nav: true
         {% include figure.html path="assets/img/offlinerl-collect.png" title="RLA framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-
 
 - Website: [Link](https://offlinerl.ai/)
