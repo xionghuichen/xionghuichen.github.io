@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: about
 title: About
