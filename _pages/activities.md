@@ -36,7 +36,7 @@ nav: true
   - KDD 2022 Workshop on Decision Intelligence and Analytics for Online Marketplaces.
   - IJCAI 2021 Workshop on Reinforcement Learning for Intelligent Transportation Systems (RL4ITS).
   - Proceddings of the 2nd International Conference on Distributed Artificial Intelligence (DAI'20).
-- Reviewer: NeurIPS, KDD, IJCAI, AAAI, DAI.
+- Reviewer: ICML, NeurIPS, KDD, IJCAI, AAAI, DAI.
 
 #### Teaching
 
