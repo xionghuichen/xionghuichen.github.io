@@ -25,7 +25,7 @@ Selected Awards & Honors
 
 
 #### Others
-- Best Cooperation Award of 2021-2022 Meituan Scientific Research Cooperation (2022). (PI: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>)
+- Best Cooperation Award of Meituan Scientific Research Cooperation (2022). (PI: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>)
 - Huawei Scholarship (2021 & 2022).
 - "Xu-Xin" International Exchange Scholarship, Nanjing University (2020).
 - Outstanding Graduates Awards, Southeast University (2018).
