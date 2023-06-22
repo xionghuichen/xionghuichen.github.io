@@ -20,7 +20,6 @@ Selected Awards & Honors
     - **First Prize**. In the 2rd Cloud Computing Application Innovation Competition for Universities.
     - **Third Place**. In Microsoft Imagine Cup 2017.
 - 2016
-    - **First Prize**. In the 2rd Cloud Computing Application Innovation Competition for Universities.
     - **First Prize**. In the 9th Chinese Collegiate Computing Competition.
 
 
