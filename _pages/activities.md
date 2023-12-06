@@ -37,7 +37,7 @@ nav: true
   - IJCAI 2021 Workshop on Reinforcement Learning for Intelligent Transportation Systems (RL4ITS).
   - Proceddings of the 2nd International Conference on Distributed Artificial Intelligence (DAI'20).
 
-- Reviewer: ICML, NeurIPS, KDD, IJCAI, AAAI, DAI.
+- Reviewer: ICML, NeurIPS, KDD, IJCAI, AAAI, AAMAS, DAI.
 
 #### Teaching
 

@@ -5,3 +5,11 @@ If you want to use this for yourself, you can fork it, and modify the following 
 - `_config.yml`: necessary variable values.
 - All bib files inside `_bibliography` folder. Fill them with your own publications.
 - `_pages/*.md`. Modify them using your own information.
+
+local run
+```
+$ bundle install
+# assuming pip is your Python package manager
+$ pip install jupyter
+$ bundle exec jekyll serve --lsi
+```
