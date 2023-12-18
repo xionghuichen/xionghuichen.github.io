@@ -26,7 +26,7 @@ Email: xiong-hui.chenn [at] outlook or chenxh [at] lamda.nju.edu.cn <br/>
 
 <p> Currently, I am a third-year PhD student of School of Artificial Intelligence in <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a> under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> and also a member of <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, which is led by Prof. <a href="https://cs.nju.edu.cn/zhouzh/index.htm">Zhi-Hua Zhou</a>.  Before my PhD research, I received my B.Sc. degree in Department of Software Engineering in 2018 from <a href="https://www.seu.edu.cn/english/main.htm"> Southeast University </a> . In September 2018, I was admitted to study for a M.Sc. degree in <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a>  under the supervision of  Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> without entrance examination.  From September 2020, I started studying for PhD degree under the supervision of  Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a>.</p>
 
-<p>**[]**</p>
+<p>**Open to job/research/startup opportunities. Please feel free to contact me if you would like to receive my detailed CV.**</p>
 
 
 **Research interest:**  I am interested in handling challenges of Reinforcement Learning (RL) in real-world applications. In particular, I focus my research topics on sim2real transfer, offline RL, causal inference for RL, and real-world environment reconstruction. Currently, I am also working to develop RL policies for autonomous driving, recommender systems, robotics and industrial control systems.
