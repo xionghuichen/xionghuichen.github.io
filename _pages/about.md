@@ -31,7 +31,7 @@ Email: xiong-hui.chenn [at] outlook or chenxh [at] lamda.nju.edu.cn <br/>
 **Research interest:**  I am interested in handling challenges of Reinforcement Learning (RL) in real-world applications. In particular, I focus my research topics on sim2real transfer, offline RL, causal inference for RL, and real-world environment reconstruction. Currently, I am also working to develop RL policies for autonomous driving, recommender systems, robotics and industrial control systems.
 
 
-**Open to job/research/startup opportunities. Please feel free to contact me if you would like to receive my detailed CV.**
+**OPEN to job/research/startup opportunities. Please feel free to contact me if you would like to receive my detailed CV.**
 
 <!-- ### Highlights
 
