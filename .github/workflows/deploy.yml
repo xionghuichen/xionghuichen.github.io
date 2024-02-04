@@ -34,6 +34,7 @@ jobs:
         bundle install --jobs 4 --retry 3
         npm install -g mermaid.cli
         bundle update
+        bundle update uri
     - name: Setup deploy options
       id: setup
       run: |
