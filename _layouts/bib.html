@@ -69,7 +69,6 @@
         {% if entry.video %}
           <a href="{{ entry.video }}" style="padding-top: 0em; padding-bottom: 0px;">Video</a>
         {% endif %}
-    
         {% if entry.zhihu %}
           <a href="{{ entry.zhihu }}" style="padding-top: 0em; padding-bottom: 0px;">Zhihu</a>
         {% endif %}
@@ -153,7 +152,9 @@
       {% if entry.year %}
         {{entry.year}}.
       {% endif %}
-      
+      {% if entry.comment %}
+      <b style="color:rgb(188, 6, 6);">({{entry.comment}})</b>
+      {% endif %}
       
 
       </div>
