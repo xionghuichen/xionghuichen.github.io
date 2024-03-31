@@ -73,7 +73,9 @@
           <a href="{{ entry.zhihu }}" style="padding-top: 0em; padding-bottom: 0px;">Zhihu</a>
         {% endif %}
         ]
-
+      {% if entry.comment %}
+      <b style="color:rgb(188, 6, 6); font-weight: normal;">({{entry.comment}})</b>
+      {% endif %}
       </div>
       <div class="author" style="padding-top: 0em; padding-bottom: 0px; margin-bottom: 0em;">
         {% for author in entry.author_array %}
@@ -151,9 +153,6 @@
       {% endif %}
       {% if entry.year %}
         {{entry.year}}.
-      {% endif %}
-      {% if entry.comment %}
-      <b style="color:rgb(188, 6, 6);">({{entry.comment}})</b>
       {% endif %}
       
 
