@@ -49,6 +49,10 @@
         {% if entry.code %}
           <a href="{{ entry.code }}" style="padding-top: 0em; padding-bottom: 0px;">Code</a>
         {% endif %}
+
+        {% if entry.appendix %}
+          <a href="{{ entry.appendix }}" style="padding-top: 0em; padding-bottom: 0px;">Appendix</a>
+        {% endif %}
         {% if entry.poster %}
           {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" style="padding-top: 0em; padding-bottom: 0px;">Poster</a>
