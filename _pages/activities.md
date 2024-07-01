@@ -31,13 +31,9 @@ nav: true
 
 #### Services
 
-- Conference PC member
-  - the 38th AAAI Conference on Artificial Intelligence (AAAI'24).
-  - KDD 2022 Workshop on Decision Intelligence and Analytics for Online Marketplaces.
-  - IJCAI 2021 Workshop on Reinforcement Learning for Intelligent Transportation Systems (RL4ITS).
-  - Proceddings of the 2nd International Conference on Distributed Artificial Intelligence (DAI'20).
-
-- Reviewer: ICLR, ICML, NeurIPS, IJCAI, AAAI, KDD, AAMAS, DAI, TETCI, and TAI.
+- PC member: 
+  - Conference: ICLR, ICML, NeurIPS, IJCAI, AAAI, KDD, AAMAS, and DAI.
+  - Journal: TETCI, TAI, ACML, and Machine Learning.
 
 #### Teaching
 
