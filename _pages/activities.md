@@ -9,7 +9,7 @@ nav: true
 ---
 #### Activities
 - 2024
-  - [ **Invited Talk** ]: Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en/). [ [ slides ](../assets/slides/icml-bytedance.pdf)].
+  - [ **Invited Talk** ]: Invited talk about Generlizable Context-based Decision-Making at ByteDance. [ [ slides ](../assets/slides/icml-bytedance.pdf)].
 - 2022
   - [ **Invited Talk** ]:
     Cross-Modal Domain Adaptation for Cost-efficient Visual Reinforcement Learning.
@@ -26,7 +26,7 @@ nav: true
     In *the Beijing Academy of Artificial Intelligence (BAAI) for Young Scientists*. [ [slides](../assets/slides/MAPLE-baai-15mins.pdf) ]
   - [ **Presentation** ]:
     RL Paper Seminar.
-    In *RLChina*. [ [slides](../assets/slides/MAPLE-baai-15mins.pdf) [video](https://www.bilibili.com/video/BV1EF411q752?from=search&seid=2441940403593061439) ]
+    In *RLChina*. [ [slides](../assets/slides/MAPLE-baai-15mins.pdf) [video](https://www.bilibili.com/video/BV1EF411q752?from=search&seid=2441940403593061439)]
 
 #### Services
 
