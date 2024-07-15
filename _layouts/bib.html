@@ -49,6 +49,9 @@
         {% if entry.code %}
           <a href="{{ entry.code }}" style="padding-top: 0em; padding-bottom: 0px;">Code</a>
         {% endif %}
+        {% if entry.page %}
+          <a href="{{ entry.page }}" style="padding-top: 0em; padding-bottom: 0px;">Page</a>
+        {% endif %}
 
         {% if entry.appendix %}
           <a href="{{ entry.appendix }}" style="padding-top: 0em; padding-bottom: 0px;">Appendix</a>
