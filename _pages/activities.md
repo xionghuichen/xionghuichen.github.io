@@ -8,14 +8,14 @@ permalink: /activities/
 nav: true
 ---
 #### Activities
-
+- 2024
+  - [ **Invited Talk** ]: Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en/). [ [slides ](../assets/slides/icml-bytedance.pdf)].
+  - [ **Invited Talk** ]: Invited talk about our recent work [Deep Demonstration Tracing](https://osil-ddt.github.io/) at [Deepwisdom](https://www.deepwisdom.ai/) [ [slides ](../assets/slides/ddt.pdf)].
 - 2022
-
-  - [ **Invited Paper** ]:
+  - [ **Invited Talk** ]:
     Cross-Modal Domain Adaptation for Cost-efficient Visual Reinforcement Learning.
     In *Proceedings of 3rd International Conference on Distributed Artificial Intelligence (Session 7)*. [ [slides](../assets/slides/CODAS-20mins.pdf) ]
 - 2021
-
   - [ **Seminar** ]:
     Domain Adaptation and Domain Randomization for Sim2Real RL.
     In *Nanjing Univeristy, China*. [ [slides](../assets/slides/Domain-Adaptation-and-Domain-Randomization-for-Sim2Real-RL.pdf) ]
