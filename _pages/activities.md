@@ -9,7 +9,8 @@ nav: true
 ---
 #### Activities
 - 2024
-  - [ **Invited Talk** ]: Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en). 
+  - [ **Invited Talk** ]: 
+  Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en)
 - 2022
   - [ **Invited Talk** ]:
     Cross-Modal Domain Adaptation for Cost-efficient Visual Reinforcement Learning.
