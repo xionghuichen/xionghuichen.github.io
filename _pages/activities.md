@@ -11,6 +11,11 @@ nav: true
 - 2024
   - [ **Invited Talk** ]: 
   Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en)
+  [ [slides](../assets/slides/icml-bytedance.pdf) ]
+  - [ **Invited Talk** ]: 
+  Invited talk about our recent work [Deep Demonstration Tracing](https://osil-ddt.github.io) at [Deepwisdom](https://www.deepwisdom.ai).
+  [ [ slides ](../assets/slides/icml-bytedance.pdf) [video](https://deepwisdom.feishu.cn/file/BjwjbPMAOoOXOoxi79kcnzcxnLe?from=from_copylink) ]
+
 - 2022
   - [ **Invited Talk** ]:
     Cross-Modal Domain Adaptation for Cost-efficient Visual Reinforcement Learning.
