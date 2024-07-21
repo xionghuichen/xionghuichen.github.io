@@ -21,7 +21,7 @@ P.hD. Student, <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a
 Supervisor: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>
 Email: xiong-hui.chenn [at] outlook or chenxh [at] lamda.nju.edu.cn <br/>
 
-[ [Google scholar](https://scholar.google.com/citations?user=H5pguCYAAAAJ&hl=en) ] [ [DBLP](https://dblp.org/pid/241/7938.html) ] [ [Research gate](https://www.researchgate.net/profile/Xiong-Hui-Chen-2) ] [ [Github](https://github.com/xionghuichen) ] [ [Twitter](https://twitter.com/xiong_hui_chen) ] [ [Zhihu](https://www.zhihu.com/people/chen-xiong-hui-10) ] [ [LinkedIn](https://www.linkedin.com/in/xiong-hui-chen-9a94b411a/) ] [ [Code Space of LAMDA-RL Group](https://github.com/LAMDA-RL)]
+[ [Google scholar](https://scholar.google.com/citations?user=H5pguCYAAAAJ&hl=en) ] [ [DBLP](https://dblp.org/pid/241/7938.html) ] [ [Research gate](https://www.researchgate.net/profile/Xiong-Hui-Chen-2) ] [ [Github](https://github.com/xionghuichen) ] [ [Twitter](https://twitter.com/xiong_hui_chen) ] [ [Zhihu](https://www.zhihu.com/people/chen-xiong-hui-10) ] [ [LinkedIn](https://www.linkedin.com/in/xiong-hui-chen-9a94b411a/) ] [ [Code Space of LAMDA-RL Group](https://github.com/LAMDA-RL) ]
 
 
 <p> Currently, I am a fourth-year PhD student of School of Artificial Intelligence in <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a> under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> and also a member of <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, which is led by Prof. <a href="https://cs.nju.edu.cn/zhouzh/index.htm">Zhi-Hua Zhou</a>.  
