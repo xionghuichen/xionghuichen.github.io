@@ -9,6 +9,7 @@ nav: true
 ---
 #### Activities
 - 2024
+  - [ **Invited Talk** ]: Invited talk about “Recent Studies on LLMs for Decision Making and Decision-making Foundation Models” at [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
   - [ **Invited Talk** ]: 
   Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en)
   [ [slides](../assets/slides/icml-bytedance.pdf) ]
