@@ -9,6 +9,7 @@ nav: true
 ---
 #### Activities
 - 2024
+  - [ **Invited Talk** ]: Invited talk about "Recent Studies on Causal Reinforcement Learning" at [集智俱乐部](https://pattern.swarma.org/study_group_issue/761). [ [slides ](../assets/slides/jizhi-tutorial-causal-RL.pdf)]
   - [ **Invited Talk** ]: Invited talk about "Recent Studies on LLMs for Decision Making and Decision-making Foundation Models" at [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby).
   - [ **Invited Talk** ]: 
   Invited talk about Generlizable Context-based Decision-Making at [ByteDance](https://www.bytedance.com/en)
