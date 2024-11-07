@@ -39,7 +39,7 @@ nav: true
 #### Services
 
 - PC member or Reviewer: 
-  - Conference: ICLR, ICML, NeurIPS, IJCAI, AAAI, KDD, AAMAS, and DAI.
+  - Conference: ICLR, ICML, NeurIPS, ICRA, IJCAI, AAAI, KDD, AAMAS, and DAI.
   - Journal: TETCI, TAI, ACML, and Machine Learning.
 
 #### Teaching
