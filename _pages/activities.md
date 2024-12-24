@@ -9,6 +9,8 @@ nav: true
 ---
 #### Activities
 - 2024
+  - ["Seminar"]: I will host a seminar about "recent advances of embodied AI for robotics" at [集智俱乐部](https://mp.weixin.qq.com/s/uQ0XPxaiMBQfANqXPTnBbg).
+  - [ **Invited Talk** ]: Invited talk about "基于强化学习的可泛化大模型策略求解方法的近期进展" at Amazon Cloud, Beijing.
   - [ **Invited Talk** ]: Invited talk about "Recent Studies on Causal Reinforcement Learning" at [集智俱乐部](https://pattern.swarma.org/study_group_issue/761). [ [slides ](../assets/slides/jizhi-tutorial-causal-RL.pdf)]
   - [ **Invited Talk** ]: Invited talk about "Recent Studies on LLMs for Decision Making and Decision-making Foundation Models" at [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby).
   - [ **Invited Talk** ]: 
