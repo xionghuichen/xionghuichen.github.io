@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2024, 2023, 2022, 2021, 2020, 2019]
+years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
 years_manus: [2023]
 nav: true
 ---
@@ -16,7 +16,6 @@ nav: true
   {% bibliography -f preprint -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
-
 
 #### Manuscripts
 
