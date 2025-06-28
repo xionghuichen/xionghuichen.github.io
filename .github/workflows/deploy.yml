@@ -18,6 +18,10 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
       
+      - name: Install system dependencies 🔧
+        run: |
+          sudo apt-get update && sudo apt-get install -y imagemagick libmagickwand-dev
+      
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -37,10 +41,6 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      
-      - name: Install system dependencies 🔧
-        run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
       
       - name: Install Python dependencies 🐍
         run: |
