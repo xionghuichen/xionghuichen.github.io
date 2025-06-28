@@ -14,6 +14,10 @@ jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
@@ -45,23 +49,25 @@ jobs:
       - name: Install Python dependencies 🐍
         run: |
           pip3 install --upgrade nbconvert
-      
-      - name: Build Jekyll site 🏗️
+
+      - name: Install and Build 🔧
         run: |
+          pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
-      
-      - name: Purge unused CSS 🧹
+      - name: Setup deploy options
+        id: setup
         run: |
-          npm install -g purgecss
-          if [ -f "_site/assets/css/main.css" ]; then
-            purgecss -c purgecss.config.js
-          else
-            echo "Warning: main.css not found, skipping purgecss"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
+            echo "::set-output name=SRC_BRANCH::${GITHUB_HEAD_REF}"
+            echo "::set-output name=NO_PUSH::--no-push"
+          elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
+            echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
           fi
-      
-      - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: _site
+          echo "::set-output name=DEPLOY_BRANCH::gh-pages"
+      - name: Deploy website 
+        run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
+                      --src ${{ steps.setup.outputs.SRC_BRANCH }} 
+                      --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
