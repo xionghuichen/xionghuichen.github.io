@@ -21,8 +21,7 @@ Ph.D. in <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a>, <a 
 Supervisor: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>
 Email: xiong-hui.chenn [at] outlook.com, chenxh [at] lamda.nju.edu.cn, xionghui.cxh@alibaba-inc.com <br/>
 
-**The Qwen Team is hiring! We are looking for researchers and engineers who are passionate about developing more efficient RL algorithms/infra. 
-If you are interested in exploring this opportunity with us, please email xionghui.cxh [at] alibaba-inc.com.**
+**The Qwen Team is hiring! We are looking for researchers and engineers who are passionate about developing (2) Next-Gen Robotics Foundation Model; (2) More efficient RL algorithms/infra. If you are interested in exploring this opportunity with us, please email xionghui.cxh [at] alibaba-inc.com.**
 
 [ [Google scholar](https://scholar.google.com/citations?user=H5pguCYAAAAJ&hl=en) ] [ [DBLP](https://dblp.org/pid/241/7938.html) ] [ [Research gate](https://www.researchgate.net/profile/Xiong-Hui-Chen-2) ] [ [Github](https://github.com/xionghuichen) ] [ [Twitter](https://twitter.com/xiong_hui_chen) ] [ [Zhihu](https://www.zhihu.com/people/chen-xiong-hui-10) ] [ [LinkedIn](https://www.linkedin.com/in/xiong-hui-chen-9a94b411a/) ] [ [Code Space of LAMDA-RL Group](https://github.com/LAMDA-RL) ]
 
