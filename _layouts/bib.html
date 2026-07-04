@@ -102,29 +102,29 @@
               {% endif %}
             {% endfor %}
           {% endif %}
+          {% assign author_marks = "" %}
+          {% if author_is_self %}
+            {% if entry.equal %}
+              {% assign author_marks = author_marks | append: '<sup>*</sup>' %}
+            {% endif %}
+            {% if entry.corr %}
+              {% assign author_marks = author_marks | append: '<sup>&dagger;</sup>' %}
+            {% endif %}
+            {% if entry.lead %}
+              {% assign author_marks = author_marks | append: '<sup>&sect;</sup>' %}
+            {% endif %}
+          {% endif %}
           
           {% if forloop.length == 1 %}
             {% if author_is_self %}
-              {% if entry.corr %}
-                <em><b>{{author.first}} {{author.last}}</b></em><sup>*</sup>
-              {% else %}
-                <em><b>{{author.first}} {{author.last}}</b></em>
-              {% endif %}
+              <em><b>{{author.first}} {{author.last}}</b></em>{{ author_marks }}
             {% else %} 
-              {% if entry.corr %}
-                <em><b>{{author.first}} {{author.last}}</b></em><sup>*</sup>
-              {% else %}
-                <em><b>{{author.first}} {{author.last}}</b></em>
-              {% endif %}
+              <em><b>{{author.first}} {{author.last}}</b></em>
             {% endif %}
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                {% if entry.corr %}
-                  <em><b>{{author.first}} {{author.last}}</b></em><sup>*</sup>
-                {% else %}
-                  <em><b>{{author.first}} {{author.last}}</b></em>
-                {% endif %},
+                <em><b>{{author.first}} {{author.last}}</b></em>{{ author_marks }},
               {% else %}
                 {% if coauthor_url %}
                   <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>,
@@ -135,11 +135,7 @@
             {% else %}
               {% if author_is_self %}
                 and 
-                {% if entry.corr %}
-                <em><b>{{author.first}} {{author.last}}</b></em><sup>*</sup>
-                {% else %}
-                <em><b>{{author.first}} {{author.last}}</b></em>
-                {% endif %}
+                <em><b>{{author.first}} {{author.last}}</b></em>{{ author_marks }}
               .
               {% else %}
                 {% if coauthor_url %}

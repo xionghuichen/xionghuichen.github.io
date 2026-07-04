@@ -3,11 +3,10 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
-years_manus: [2023]
+years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019]
 nav: true
 ---
-\* indicates equal contributioncon.
+\* indicates equal contribution; &dagger; indicates corresponding author; &sect; indicates project lead.
 
 #### Preprints
 
@@ -20,13 +19,7 @@ nav: true
 #### Manuscripts
 
 <div class="publications">
-
-{% for y in page.years_manus %}
-
-<div>{{y}}</div>
-  {% bibliography -f manus -q @*[year={{y}}]* %}
-{% endfor %}
-
+{% bibliography -f manus %}
 </div>
 
 #### Papers
