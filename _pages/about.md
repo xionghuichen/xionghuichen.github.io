@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-Joint Postdoctoral Researcher at <a href="https://english.pku.edu.cn/">Peking University</a> and <a href="https://qwen.ai/">Tongyi Qianwen Lab (Qwen Team)</a>.  
+Researcher at <a href="https://qwen.ai/">Qwen Team</a>.
 
 Ph.D. in <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a>, <a href="http://www.nju.edu.cn/">Nanjing University</a> <br/>
 Supervisor: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>
@@ -27,7 +27,7 @@ Email: xiong-hui.chenn [at] outlook.com, chenxh [at] lamda.nju.edu.cn, xionghui.
 
 
 <p>
-Currently, I am a joint postdoctoral researcher at <a href="https://english.pku.edu.cn/">Peking University</a> and <a href="https://qwen.ai/">Tongyi Qianwen Lab (Qwen Team)</a>, working on embodied foundation models and reinforcement learning for robotics.  
+Currently, I am a Joint Postdoctoral Researcher at <a href="https://english.pku.edu.cn/">Peking University</a> and <a href="https://www.alibabagroup.com/en-US">Alibaba</a>, working on embodied foundation models and reinforcement learning for robotics.
 
 I obtained my Ph.D. degree from <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a>, under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a>, and as a member of the <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, led by Prof. <a href="https://cs.nju.edu.cn/zhouzh/index.htm">Zhi-Hua Zhou</a>.  
 
