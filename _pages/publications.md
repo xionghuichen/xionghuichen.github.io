@@ -8,7 +8,7 @@ nav: true
 ---
 \* indicates equal contribution; &dagger; indicates corresponding author; &sect; indicates project lead.
 
-#### Preprints
+#### Preprints and Technical Reports
 
 <div class="publications">
 {% for y in page.years %}
@@ -16,20 +16,24 @@ nav: true
 {% endfor %}
 </div>
 
-#### Manuscripts
+#### Journal Articles
 
 <div class="publications">
 {% bibliography -f manus %}
 </div>
 
-#### Papers
+#### Conference Papers
 
 <div class="publications">
 
 {% for y in page.years %}
 
+{% capture paper_count %}{% bibliography_count -f pubs -q @*[year={{y}}]* %}{% endcapture %}
+{% assign paper_count = paper_count | plus: 0 %}
+{% if paper_count > 0 %}
 <div>{{y}}</div>
   {% bibliography -f pubs -q @*[year={{y}}]* %}
+{% endif %}
 {% endfor %}
 
 </div>
