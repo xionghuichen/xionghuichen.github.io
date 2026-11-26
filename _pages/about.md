@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-Researcher at <a href="https://qwen.ai/">Qwen Team</a> · Leading Qwen-Robot toward general-purpose robotics · Pushing the frontier of LLM RL
+RL Researcher at <a href="https://qwen.ai/">Qwen Team</a> · Qwen-Robot Lead | Advancing Qwen’s RL pipelines &amp; physical intelligence
 
 Joint Postdoc at <a href="https://english.pku.edu.cn/">PKU</a> and <a href="https://www.alibabagroup.com/en-US">Alibaba</a><br/>
 Ph.D. in <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a>, <a href="http://www.nju.edu.cn/">Nanjing University</a> <br/>
