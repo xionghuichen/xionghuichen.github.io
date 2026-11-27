@@ -15,8 +15,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-LLM RL Researcher at <a href="https://qwen.ai/">Qwen Team</a> · <a href="https://qwen.ai/blog?id=qwen-robotsuite">Qwen-Robot</a> Lead<br/>
-Advancing Qwen’s RL pipelines from Reasoning, VL, to Agentic Coding
+LLM RL Researcher at <a href="https://qwen.ai/">Qwen Team</a> | <a href="https://qwen.ai/blog?id=qwen-robotsuite">Qwen-Robot</a> Lead<br/>
+Advancing Qwen’s RL pipelines from Reasoning, VL, to Agentic Coding &amp; physical intelligence
 
 Joint Postdoc at <a href="https://english.pku.edu.cn/">PKU</a> and <a href="https://www.alibabagroup.com/en-US">Alibaba</a><br/>
 Ph.D. in <a href="http://lamda.nju.edu.cn/CH.MainPage.ashx">LAMDA Group</a>, <a href="http://www.nju.edu.cn/">Nanjing University</a> <br/>
