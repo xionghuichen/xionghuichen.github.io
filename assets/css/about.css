@@ -1,0 +1,10 @@
+/* Keep the portrait's existing size while reclaiming its unused right half. */
+@media (min-width: 576px) {
+  .post-header > .profile.float-right {
+    width: 15%;
+  }
+
+  .post-header > .profile.float-right > img {
+    width: 100%;
+  }
+}
